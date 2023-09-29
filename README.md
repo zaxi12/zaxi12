@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @zaxi12
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- Chat with me
+- I am a 13 year old developer
+- Love to code and wants to make a website, </>
+
+<!---
+zaxi12/zaxi12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
